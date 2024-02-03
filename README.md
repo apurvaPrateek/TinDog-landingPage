@@ -1,1 +1,2 @@
 # TinDog-landingPage
+Bootstrap used
